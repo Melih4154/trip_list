@@ -1,16 +1,7 @@
-# trip_project
+##Trip Animation List
 
-A new Flutter project.
+#I realized my project with Tween animations and Curved animations. I also visualized the list view with ListAnimate.
 
-## Getting Started
+![50nnix](https://user-images.githubusercontent.com/53224999/110218038-8ed7d300-7ec8-11eb-83a0-a693d3e76a7f.gif)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![50nnpt](https://user-images.githubusercontent.com/53224999/110218103-d2324180-7ec8-11eb-9d8a-f811ae91198e.gif)
